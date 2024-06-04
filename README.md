@@ -1,10 +1,16 @@
-![Group 2 1](https://github.com/arshiasir/Warehousing-and-accounting/assets/98395557/bcc057d8-c78f-4db4-a22e-c2c2d8f2d2b6)
-
-
-# Project Name
+# Warehousing and Accounting
 
 ## Description
-A brief description of what this project does and who it's for.
+<table>
+<tr>
+<td>
+<img src="https://github.com/arshiasir/Warehousing-and-accounting/blob/fad198d019cae8ecf7ea17a9feffe59131a3a322/image/license.jpg" alt="Project Image" width="300"/>
+</td>
+<td>
+کد ورود برای درخواست مجوز یک‌بار مصرف یا همان کد OTP (One-Time Password) یک رمز عبور موقتی و منحصر به فرد است که برای یک بار ورود یا انجام یک تراکنش خاص استفاده می‌شود. این کد معمولاً برای افزایش امنیت و جلوگیری از دسترسی‌های غیرمجاز به کار می‌رود.
+</td>
+</tr>
+</table>
 
 ## Table of Contents
 - [Installation](#installation)
@@ -17,21 +23,12 @@ A brief description of what this project does and who it's for.
 ## Installation
 1. Clone the repository
     ```bash
-    git clone https://github.com/yourusername/projectname.git
+    git clone https://github.com/yourusername/Warehousing-and-accounting.git
     ```
 2. Navigate to the project directory
     ```bash
-    cd projectname
+    cd Warehousing-and-accounting
     ```
 3. Install dependencies
     ```bash
-    pip install -r requirements.txt
-    ```
-
-## Usage
-```python
-import projectname
-
-# Example of how to use the project
-result = projectname.some_function()
-print(result)
+    pip install -r req
